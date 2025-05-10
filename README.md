@@ -166,6 +166,8 @@ git remote add upstream https://github.com/mahmudurmahid/movie-recommendation-sy
 git pull upstream main
 ```
 
+---
+
 ## ✅ Testing
 
 ### 🧪 Test Scenarios Checklist
@@ -203,8 +205,6 @@ Future improvements will include:
 - **Mahmudur Mahid**  
   [GitHub Profile](https://github.com/mahmudurmahid)
 
----
-
 ## 🧰 Tools & Technologies
 
 - Python
@@ -212,8 +212,6 @@ Future improvements will include:
 - scikit-learn
 - Surprise library
 - MovieLens dataset
-
----
 
 ## 📚 Learning Resources & Documentation
 
